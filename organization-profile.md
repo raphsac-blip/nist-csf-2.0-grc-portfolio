@@ -1,28 +1,27 @@
-# Simulated Organization Profile
+# Maryknoll Sisters — Simulated Organization Profile
 
 ## Organization Overview
 
-Name: Maryknoll Sisters (MS)
+Name: Maryknoll Sisters
 
-Industry: Nonprofit / Faith-Based Services
+Industry: Nonprofit / Faith-Based Mission Services
 
-Organization Size: 150 employees and 50 volunteers
+Assessment Type: Independent educational simulation
 
-Location: United States
+Simulated Organization Size: 150 employees and 50 volunteers
 
-Mission: Provide educational, humanitarian, and
-community development services to underserved
-populations.
+Mission Context: Religious mission, humanitarian
+assistance, education, and community development.
 
-## Business Operations
+## Simulated Business Operations
 
 - Donor management and fundraising
-- Community outreach programs
+- International mission and outreach programs
 - Financial and administrative services
 - Employee and volunteer management
 - Educational and humanitarian programs
 
-## Technology Infrastructure
+## Assumed Technology Infrastructure
 
 - Microsoft 365 for email and collaboration
 - Windows laptops and desktop computers
@@ -31,15 +30,15 @@ populations.
 - Remote access through VPN
 - Centralized identity and access management
 
-## Sensitive Information
+## Simulated Sensitive Information
 
 - Donor personal and financial information
 - Employee and volunteer records
 - Financial transactions and accounting records
-- Beneficiary personal information
+- Mission beneficiary information
 - Organizational credentials and access records
 
-## Initial Cybersecurity Concerns
+## Hypothetical Cybersecurity Risks
 
 - Phishing and business email compromise
 - Unauthorized access to sensitive information
@@ -50,15 +49,24 @@ populations.
 
 ## Assessment Scope
 
-The cybersecurity assessment will evaluate
-organizational governance, information assets,
-security controls, incident response readiness,
-and recovery capabilities using NIST CSF 2.0.
+This project evaluates hypothetical cybersecurity
+governance, information assets, security controls,
+incident response readiness, and recovery
+capabilities using NIST CSF 2.0.
 
 ## Disclaimer
 
-HopeBridge Community Services is a fictional
-organization created exclusively for this
-educational cybersecurity portfolio. All
-organizational details and assessment data
-are simulated.
+This is an independent educational cybersecurity
+portfolio project inspired by Maryknoll Sisters.
+
+The organizational size, technology infrastructure,
+security controls, risks, and assessment findings
+are hypothetical and used exclusively for
+educational purposes.
+
+This project is not affiliated with, authorized by,
+or endorsed by Maryknoll Sisters. It does not
+represent an actual assessment of the organization's
+information systems or cybersecurity practices.
+
+No confidential organizational information is used.
