@@ -35,9 +35,21 @@ assessment using the NIST Cybersecurity Framework
 
 ## Disclaimer
 
-This is an educational portfolio project using a
-fictional organization and simulated data. No real
-organizational or confidential information is used.
+This is an independent educational cybersecurity
+portfolio project using Maryknoll Sisters as the
+context for a simulated organizational assessment.
+
+All technical infrastructure, risks, controls,
+organizational details, and assessment findings
+are hypothetical.
+
+This project does not represent an actual
+cybersecurity assessment of Maryknoll Sisters
+and is not affiliated with or endorsed by
+the organization.
+
+No real confidential organizational information
+is used.
 
 ## Framework Reference
 
