@@ -16,10 +16,6 @@ Category: Risk Assessment (ID.RA)
 
 ### Risk Scoring Methodology
 
-Risk Score = Likelihood x Impact
-
-### Risk Scoring Methodology
-
 **Risk Score = Likelihood × Impact**
 
 **Likelihood Scale**
