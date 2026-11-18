@@ -18,25 +18,29 @@ Category: Risk Assessment (ID.RA)
 
 Risk Score = Likelihood x Impact
 
-Likelihood Scale:
-1 = Rare
-2 = Unlikely
-3 = Possible
-4 = Likely
-5 = Almost Certain
+### Risk Scoring Methodology
 
-Impact Scale:
-1 = Insignificant
-2 = Minor
-3 = Moderate
-4 = Major
-5 = Severe
+**Risk Score = Likelihood × Impact**
 
-Risk Classification:
-1-5 = Low
-6-12 = Medium
-13-19 = High
-20-25 = Critical
+**Likelihood Scale**
+- 1 = Rare
+- 2 = Unlikely
+- 3 = Possible
+- 4 = Likely
+- 5 = Almost Certain
+
+**Impact Scale**
+- 1 = Insignificant
+- 2 = Minor
+- 3 = Moderate
+- 4 = Major
+- 5 = Severe
+
+**Risk Classification**
+- 1–5 = Low
+- 6–12 = Medium
+- 13–19 = High
+- 20–25 = Critical
 
 ### Risk Register
 
