@@ -66,3 +66,27 @@ Framework: NIST CSF 2.0
 **Suggested Evidence:** User access review reports, account provisioning and deactivation records, and role-based access control policies.
 
 **Disclaimer:** All controls and vulnerabilities are hypothetical. No actual Maryknoll Sisters systems were assessed.
+
+### Control Assessment 004
+
+**Risk ID:** R-004
+
+**Threat:** Ransomware
+
+**Risk Score:** 12/25 — Medium
+
+**NIST CSF 2.0 Mapping:**
+- PR.PS-02 — Software is maintained, replaced, and removed commensurate with risk.
+- PR.PS-05 — Installation and execution of unauthorized software are prevented.
+- DE.CM-09 — Computing hardware, software, runtime environments, and their data are monitored to find potentially adverse events.
+
+**Recommended Controls:**
+- Deploy and maintain endpoint protection software.
+- Apply operating system and application security patches promptly.
+- Monitor endpoints for suspicious activities and ransomware indicators.
+
+**Control Implementation Status:** Not assessed — hypothetical scenario.
+
+**Suggested Evidence:** Endpoint protection reports, patch management records, and security monitoring logs.
+
+**Disclaimer:** All controls and vulnerabilities are hypothetical. No actual Maryknoll Sisters systems were assessed.
