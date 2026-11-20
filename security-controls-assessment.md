@@ -90,3 +90,26 @@ Framework: NIST CSF 2.0
 **Suggested Evidence:** Endpoint protection reports, patch management records, and security monitoring logs.
 
 **Disclaimer:** All controls and vulnerabilities are hypothetical. No actual Maryknoll Sisters systems were assessed.
+
+### Control Assessment 005
+
+**Risk ID:** R-005
+
+**Threat:** Data Loss / Backup Failure
+
+**Risk Score:** 15/25 — High
+
+**NIST CSF 2.0 Mapping:**
+- PR.DS-11 — Backups of data are created, protected, maintained, and tested.
+- RC.RP-03 — The integrity of backups and other restoration assets is verified before using them for restoration.
+
+**Recommended Controls:**
+- Implement regular, encrypted backups of critical organizational data, including protected offline or immutable copies.
+- Conduct periodic backup restoration tests to verify data recovery capabilities.
+- Verify backup integrity before restoring organizational systems.
+
+**Control Implementation Status:** Not assessed — hypothetical scenario.
+
+**Suggested Evidence:** Backup schedules, backup job reports, restoration test results, backup integrity verification records, and documented recovery procedures.
+
+**Disclaimer:** All controls, vulnerabilities, and risks are hypothetical. No actual Maryknoll Sisters systems or backup infrastructure were assessed.
