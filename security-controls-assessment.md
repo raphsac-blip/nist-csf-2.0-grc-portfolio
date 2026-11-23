@@ -67,6 +67,29 @@ Framework: NIST CSF 2.0
 
 **Disclaimer:** All controls and vulnerabilities are hypothetical. No actual Maryknoll Sisters systems were assessed.
 
+### Control Assessment 003
+
+**Risk ID:** R-002
+
+**Threat:** Unauthorized Access
+
+**Risk Score:** 15/25 — High
+
+**NIST CSF 2.0 Mapping:**
+- PR.AA-05 — Access permissions are managed, enforced, and reviewed using least privilege and separation of duties.
+- PR.AA-01 — Identities and credentials for authorized users, services, and hardware are managed.
+
+**Recommended Controls:**
+- Apply least-privilege access to organizational systems.
+- Conduct quarterly user access reviews.
+- Promptly disable accounts when employees or volunteers leave the organization.
+
+**Control Implementation Status:** Not assessed — hypothetical scenario.
+
+**Suggested Evidence:** User access review reports, account provisioning and deactivation records, and role-based access control policies.
+
+**Disclaimer:** All controls and vulnerabilities are hypothetical. No actual Maryknoll Sisters systems were assessed.
+
 ### Control Assessment 004
 
 **Risk ID:** R-004
